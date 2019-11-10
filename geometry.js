@@ -69,7 +69,7 @@ class Triangle {
     }
 }
 
-class Vector {
+/*class Vector {
     #target;
 
     constructor(target, source = new pos(0, 0)) {
@@ -140,7 +140,7 @@ class Vector {
         this.dy *= -1;
         return this;
     }
-}
+}*/
 
 class Circle {
     static getIntersections(circleA, circleB) {
