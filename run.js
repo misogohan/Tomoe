@@ -46,9 +46,6 @@ const circle3 = Object.create(transCircle, {
     }
 });
 
-console.log(circle2);
-
-
 function _69() {
     return `
         M91.42135623730951 29.289321881345245
