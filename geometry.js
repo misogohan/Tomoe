@@ -189,4 +189,4 @@ class Circle {
     }
 }
 
-export default {heronS, translate, rotate, pos, Triangle, Circle, Vector, scale};
+export default {heronS, translate, rotate, pos, Triangle, Circle/*, Vector*/, scale};
